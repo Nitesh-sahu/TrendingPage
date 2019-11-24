@@ -1,6 +1,6 @@
-# flutter_app_new
+# flutter_Trending_page
 
-A new Flutter application.
+A new Flutter application for Trending Page.
 
 ## Getting Started
 
